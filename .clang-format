@@ -1,0 +1,10 @@
+
+Language: Cpp
+BasedOnStyle: Google
+TabWidth: 2
+IndentWidth: 2
+UseTab: false
+ColumnLimit: 80
+MaxEmptyLinesToKeep: 1
+AlwaysBreakTemplateDeclarations: true
+
